@@ -1,0 +1,7 @@
+.container .table-responsive .table thead {
+    background: #000;
+    color: #FFF;
+}
+ td form{
+     display:  inline-block;
+ }

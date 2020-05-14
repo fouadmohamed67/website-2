@@ -1,0 +1,39 @@
+.ele{
+     
+     padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.125)
+}
+.in-card-body{
+    padding: 0px;
+}
+.col{
+    padding: 0;
+}
+.row-counter{
+    margin-bottom: 20px;
+}
+.less-mar{
+    margin-top: 20px;
+}
+
+.counter{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.categories{
+    background-color: green;
+    color: #FFF;
+     font-weight: bolder;}
+.admins{
+    background-color: rgb(255, 138, 28);
+    color: #FFF;
+     font-weight: bolder;}
+.users{
+    background-color: rgb(16, 171, 161);
+    color: #FFF;
+    font-weight: bolder;}
+.items{
+    background-color: rgb(43, 58, 66);
+    color: #FFF;
+    font-weight: bolder;}

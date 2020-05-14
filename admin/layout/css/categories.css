@@ -1,0 +1,29 @@
+.item
+{
+    border-bottom: 2px solid #007bff;
+    padding: 20px;
+}
+.visible
+{
+      background-color: gray;
+      margin: 5px;
+      padding: 5px;
+      border-radius: 4px;
+      color: #FFF;
+       
+}
+.comment
+{
+    padding: 5px;
+    margin: 5px;
+   background: slategrey;
+   border-radius: 4px;
+   color: #FFF;
+}
+.item form{
+    position: relative;
+    float: right;
+}
+.item form button{
+    margin-left: 2px;
+}
